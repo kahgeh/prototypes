@@ -1,0 +1,10 @@
+{
+  "name": "JsonSchemaToTypescript",
+  "version": "0.0.0",
+  "description": "JsonSchemaToTypescript",
+  "main": "app.js",
+  "author": {
+    "name": "kahgeh",
+    "email": ""
+  }
+}
